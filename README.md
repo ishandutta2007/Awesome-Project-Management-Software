@@ -53,9 +53,9 @@ Below is a curated comparison of leading enterprise and commercial SaaS project 
 
 ## ⚡ Open-Source GitHub Projects
 
-Self-hosted and open-source project management tools sorted by **GitHub Star Count** (descending). Star badges link directly to each repository's stargazers.
+Self-hosted and open-source project management tools sorted by **GitHub Stars_Count** (descending). Stars_Badges link directly to each repository's stargazers.
 
-| Project | GitHub Stars Badge | License | Description & Key Strengths |
+| Project | GitHub_Stars_Badge | License | Description & Key Strengths |
 | :--- | :--- | :--- | :--- |
 | **[Plane](https://github.com/makeplane/plane)** ✈️ | [<img src="https://img.shields.io/github/stars/makeplane/plane?style=social&color=white" alt="Plane Stars"/>](https://github.com/makeplane/plane/stargazers) | AGPL-3.0 | **Modern AI-Native Jira & Linear Alternative** — Work items, cycles (sprints), burn-down charts, modules, pages, and multi-layout views. |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** 📝 | [<img src="https://img.shields.io/github/AppFlowy-IO/AppFlowy?style=social&color=white" alt="AppFlowy Stars"/>](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | AGPL-3.0 | **Open-Source Notion Alternative** — Offline-first visual workspace with databases, kanban boards, tasks, and grid views. |
